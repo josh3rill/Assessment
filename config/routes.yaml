@@ -1,0 +1,7 @@
+#index:
+#    path: /
+#    controller: App\Controller\DefaultController::index
+query_database:
+  path: /api/v1/count
+  controller: App\Controller\QueryDatabaseController::Query
+  methods: [GET]
