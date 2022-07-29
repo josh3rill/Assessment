@@ -49,6 +49,16 @@ The Database Used was MariaDB</p>
 <ol start="3">
 <li>Run installation script to create database and load fixtures</li>
 </ol>
+    
+    
+    
+Make sure the Two Env Files are set to access the databse you will be using .env and .env.test
+    
+   <pre><code>DATABASE_URL="mysql://root:@127.0.0.1:3306/LegalOne_test" </code></pre>
+    
+   <pre><code>DATABASE_URL="mysql://root:@127.0.0.1:3306/LegalOne" </code></pre>
+    
+    
 <pre><code>sh bin/install.sh
 
 </code></pre>
