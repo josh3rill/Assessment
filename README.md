@@ -37,7 +37,7 @@ The Database Used was MariaDB</p>
 <ol>
 <li>Clone or download repository</li>
 </ol>
-<pre><code>https://github.com/edlef/symfony-demo.git
+<pre><code>https://github.com/josh3rill/LegalOne_Assessment.git
 
 </code></pre>
 <ol start="2">
