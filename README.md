@@ -13,7 +13,7 @@
   <img src="https://legal.one/img/contact/logo.svg">
 </a></p>
 <h2 align="center">
-  LegalOne Assessment Documentation
+Assessment Documentation
 </h2>
 <p align="center"><a href="https://symfony.com" target="_blank">
   <img src="https://symfony.com/logos/symfony_black_02.svg">
